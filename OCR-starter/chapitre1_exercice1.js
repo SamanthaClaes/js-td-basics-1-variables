@@ -6,4 +6,8 @@ Affichez dans la console :
 
 // Votre prénom (chaîne)
 
+console.log("Samantha");
+
 // Votre âge (nombre)
+
+console.log(24);
